@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {com.stuartsierra/dependency {:mvn/version "0.2.0"}}}
